@@ -10,6 +10,6 @@
 
 стили (styles);
 
-readme-файл(README.mb);
+readme-файл(README.md);
 
 html-страница сайта (index.html).
