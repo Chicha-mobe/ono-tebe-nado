@@ -10,4 +10,4 @@
 - [readme-файл](https://github.com/StarostinLF/ono-tebe-nado/blob/main/README.md);
 - html-страница сайта ([index.html](https://github.com/StarostinLF/ono-tebe-nado/blob/main/index.html)).
 
-https://github.com/StarostinLF/ono-tebe-nado
+https://github.com/Chicha-mobe/ono-tebe-nado
