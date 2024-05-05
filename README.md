@@ -1,17 +1,13 @@
-Вёрстка макета сайта аукциона вещей, в которые никто не верил "Оно тебе надо" по курсу Яндекс Практикума
+# Оно тебе надо
+Вёрстка [макета](https://www.figma.com/file/unBuocGdAfnegz1sE0MknV/%232-Оно-тебе-надо) сайта аукциона вещей, в которые никто не верил "Оно тебе надо" по курсу Яндекс Практикума
 
 Комплектация репозитория:
+- автотесты ([test.yml](https://github.com/StarostinLF/ono-tebe-nado/blob/main/.github/workflows/tests.yml));
+- шрифты ([fonts](https://github.com/StarostinLF/ono-tebe-nado/tree/main/fonts));
+- изображения ([images](https://github.com/StarostinLF/ono-tebe-nado/tree/main/images));
+- стили ([styles](https://github.com/StarostinLF/ono-tebe-nado/tree/main/styles));
+- файл пропуска файлов при коммитах ([.gitignore](https://github.com/StarostinLF/ono-tebe-nado/blob/main/.gitignore));
+- [readme-файл](https://github.com/StarostinLF/ono-tebe-nado/blob/main/README.md);
+- html-страница сайта ([index.html](https://github.com/StarostinLF/ono-tebe-nado/blob/main/index.html)).
 
-автотесты (test.yml);
-
-шрифты (fonts);
-
-изображения (images);
-
-стили (styles);
-
-readme-файл(README.md);
-
-html-страница сайта (index.html).
-
-https://github.com/Chicha-mobe/ono-tebe-nado
+https://github.com/StarostinLF/ono-tebe-nado
